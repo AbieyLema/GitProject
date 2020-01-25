@@ -1,0 +1,13 @@
+C:\Users\persp\Desktop\ALema_Assignment4\ALema_Assignment4\MDIProject\bin\Debug\MDIProject.exe.config
+C:\Users\persp\Desktop\ALema_Assignment4\ALema_Assignment4\MDIProject\bin\Debug\MDIProject.exe
+C:\Users\persp\Desktop\ALema_Assignment4\ALema_Assignment4\MDIProject\bin\Debug\MDIProject.pdb
+C:\Users\persp\Desktop\ALema_Assignment4\ALema_Assignment4\MDIProject\obj\Debug\MDIProject.csprojAssemblyReference.cache
+C:\Users\persp\Desktop\ALema_Assignment4\ALema_Assignment4\MDIProject\obj\Debug\MDIProject.MainForm.resources
+C:\Users\persp\Desktop\ALema_Assignment4\ALema_Assignment4\MDIProject\obj\Debug\MDIProject.Properties.Resources.resources
+C:\Users\persp\Desktop\ALema_Assignment4\ALema_Assignment4\MDIProject\obj\Debug\MDIProject.csproj.GenerateResource.cache
+C:\Users\persp\Desktop\ALema_Assignment4\ALema_Assignment4\MDIProject\obj\Debug\MDIProject.csproj.CoreCompileInputs.cache
+C:\Users\persp\Desktop\ALema_Assignment4\ALema_Assignment4\MDIProject\obj\Debug\MDIProject.exe
+C:\Users\persp\Desktop\ALema_Assignment4\ALema_Assignment4\MDIProject\obj\Debug\MDIProject.pdb
+C:\Users\persp\Desktop\ALema_Assignment4\ALema_Assignment4\MDIProject\obj\Debug\MDIProject.ImageDocumentForm.resources
+C:\Users\persp\Desktop\ALema_Assignment4\ALema_Assignment4\MDIProject\obj\Debug\MDIProject.TextDocumentForm.resources
+C:\Users\persp\Desktop\ALema_Assignment4\ALema_Assignment4\MDIProject\obj\Debug\MDIProject.AboutForm.resources
